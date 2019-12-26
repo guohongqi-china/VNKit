@@ -24,7 +24,7 @@ TODO: Add long descriptfion of the psod hesre.
   s.homepage         = 'https://github.com/820003039@qq.com/VNKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '820003039@qq.com' => 'guohongqi9010@zto.com' }
+  s.author           = { '820003039@qq.com' => '820003039@qq.com' }
   s.source           = { :git => 'https://github.com/820003039@qq.com/VNKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
